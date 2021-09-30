@@ -1,1 +1,1 @@
-# Day6-Fibonacci_Series
+# Fibonacci_Series
